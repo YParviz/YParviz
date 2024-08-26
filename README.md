@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm Youssef!
+Welcome to my GitHub profile! I'm passionate about technology and constantly exploring new tools and frameworks.
 
-<!--
-**YParviz/YParviz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 Interests
+Learning New Technologies: I'm always on the lookout for learning and trying the new techs in the tech world.
 
-Here are some ideas to get you started:
+🔧 Skills
+Programming Languages:
+Java: Proficient in building scalable and efficient applications.
+Python: Experienced in scripting, automation, and data analysis.
+JavaScript: Skilled in front-end development and building dynamic web applications.
+TypeScript: Enhancing JavaScript applications with type safety and improved tooling.
+PHP: Knowledgeable in developing server-side scripts and web applications.
+Frameworks and Tools:
+Django: Building robust, secure, and scalable web applications with Python. I enjoy leveraging Django’s powerful features like the ORM, admin interface, and built-in security practices to develop lightweight yet powerful web solutions.
+React: Creating interactive and dynamic user interfaces.
+Flutter: Developing cross-platform mobile applications.
+🌱 Current Focus
+Infrastructure as Code (IaC): Enhancing my expertise with Terraform to streamline and automate cloud infrastructure management.
+💞️ Collaboration
+I'm enthusiastic about collaborating on exciting projects! Whether you need help with a specific task or want to brainstorm new ideas, feel free to reach out.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Get in Touch
+LinkedIn: Youssef Parviz
+Looking forward to connecting with you!
